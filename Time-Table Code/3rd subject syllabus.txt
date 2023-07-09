@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>5th Semester Syllabus</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                background-color: rgb(146, 200, 244);
+                margin-top: 80px;
+                font-family:monospace;
+            }
+            th, td {
+                border: 3px solid rgb(255, 255, 255);
+                padding: 8px;
+                text-align: center;
+               
+            }
+
+            th {
+                background-color: rgb(188, 229, 255);
+            }
+        </style>
+    </head>
+    <body style="background-color :rgb(225, 225, 252);">
+        <h2 style="font-family: monospace;" align="center">3rd Yr Msc Data Science Syllabus</h2>
+                <h3 style="font-family: monospace;">Subject Name :</h3>
+                <h3 style="align-content: center;font-family: monospace;"><b>21DS530<br>COMPUTER NETWORKS</b></h3>
+                <table>
+                    <tr>
+                      <th>Network Architecture and Components</th>
+                      <th>Network Technologies</th>
+                      <th>Internetworking</th>
+                      <th>Protocol Stack</th>
+                      <th>Network Performance and Simulation</th>
+                      <th>Fundamentals of Software Defined Networks</th>
+                    </tr>
+                    <tr>
+                        <td>LAN Technologies (Ethernet, Token Ring) </td>
+                        <td>WAN Technologies (Circuit switching - ISDN, Packet Switching - Frame Relay - (IEEE802.11) - Multiple Access - CSMA/CD - Flow control techniques - Error control techniques</td>
+                        <td>Multiple Access</td>
+                        <td>CSMA/CD</td>
+                        <td>Flow control techniques</td>
+                        <td>Error control techniques</td>
+                      </tr>
+                    <tr>
+                      <td>ISO/OSI architecture - Functionalities of OSI Layers</td>
+                      <td>LAN Technologies (Ethernet, Token Ring)</td>
+                      <td>IPv4 - Global Addresses - ARP - DHCP - ICMP - Routing - Intra domain Routing algorithms (RIP, OSPF) - Subnetting - Classless Addressing - Inter domain routing - IPv6 - Multicasting - VoIP</td>
+                      <td>End to End protocols [TCP (segment format, connection establishment & Termination, Congestion control, Flow Control), UDP] - Application layer protocols (SMTP, IMAP, POP, HTTP, FTP, DNS, Telnet)</td>
+                      <td>Bandwidth - latency - Throughput - Jitter - Delay - Network simulation using NS2, WireShark</td>
+                      <td>Fundamentals of Software Defined Networks</td>
+                    </tr>
+                   
+                  </table>
+                  
+                  
+        <p style="font-family: monospace;">Click <a href="table.html">here</a> to go back to Time Table page</p>
+    </body>
+</html>

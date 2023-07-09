@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>5th Semester Timetable</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                background-color: rgb(146, 200, 244);
+                margin-top: 200px;
+                font-family:monospace;
+            }
+
+            th, td {
+                border: 3px solid rgb(255, 255, 255);
+                padding: 8px;
+                text-align: center;
+               
+            }
+        </style>
+        </head>
+        <body style="background-color:rgb(225, 225, 252);">
+            <h2 align="center" style="font-family:monospace;">3rd Yr Msc Data Science TimeTable</h2>
+            <h3 style="font-family: monospace;">Subject Name :</h3>
+                <h3 style="align-content: center;font-family: monospace;"><b>21DSPJ0<br>SOFTWARE ENGINEERING</b></h3>
+            <table style="width:fit-content" align="center">
+                <tr>
+                    <th style="font-size: larger;">Note : </th>
+                    <th style="align-content: center ;font-size: larger;"><b>The Syllabus for Software Engineering Will Be Shared On Class</th>
+                </tr>
+        </table>
+        <p style="font-family: monospace;">Click <a href="table.html">here</a> to go back to Time Table page</p>
+        </body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>5th Semester Timetable</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                background-color: rgb(146, 200, 244);
+                margin-top: 75px;
+                font-family:monospace;
+            }
+
+            th, td {
+                border: 3px solid rgb(255, 255, 255);
+                padding: 8px;
+                text-align: center;
+               
+            }
+        </style>
+        </head>
+        <body style="background-color:rgb(225, 225, 252);">
+            <h2 align="center" style="font-family:monospace;">3rd Yr Msc Data Science TimeTable</h2>
+            <h3 style="font-family: monospace;">Subject Name :</h3>
+                <h3 style="align-content: center;font-family: monospace;"><b>21DS570<br>JAVA PROGRAMMING LAB</b></h3>
+    <table style="width:fit-content" align="center">
+        <tr>
+            <th>Java Programs</th>
+        </tr>
+        <tr >
+            <td>1. Use of Objects</td>
+        </tr>
+        <tr>
+            <td>2. Using classes and inheritance</td>
+        </tr>
+        <tr>
+            <td>3. JNI concepts</td>
+        </tr>
+        <tr>
+            <td>4. Multithread applications</td>
+        </tr>
+        <tr>
+            <td>5. Exception handling</td>
+        </tr>
+        <tr>
+            <td>6. Implementing packages, access specifiers and interfaces</td>
+        </tr>
+        <tr>
+            <td>7. Streams</td>
+        </tr>
+        <tr>
+            <td>8. JDBC program using different statements</td>
+        </tr>
+        <tr>
+            <td>9. Applet program for Animation text, images and sounds</td>
+        </tr>
+        <tr>
+            <td>10. Events and interactivity using Layout Manager</td>
+        </tr>
+        <tr>
+            <td>11. Socket program for network chatting</td>
+        </tr>
+        <tr>
+            <td>12. Client server application using RMI techniques</td>
+        </tr>
+    </table>
+
+    <h2 style="font-family: monospace;"   >Mini Project</h2>
+    <p style="font-family: monospace;"  >The course instructor shall provide real-time problems/specifications to the students for the mini project. The project shall be completed before the commencement of the next semester, and a report shall be submitted.</p>
+</body>
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>5th Semester Timetable</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                background-color: rgb(146, 200, 244);
+                margin-top: 125px;
+                font-family:monospace;
+            }
+
+            th, td {
+                border: 3px solid rgb(255, 255, 255);
+                padding: 8px;
+                text-align: center;
+               
+            }
+
+            th {
+                background-color: rgb(188, 229, 255);
+            }
+            a:link {
+              color:  rgb(48, 36, 120);
+              background-color: transparent;
+              text-decoration: none;
+            }
+            a:visited {
+              color: rgb(0, 0, 0);
+              background-color: transparent;
+              text-decoration: none;
+            }
+            a:hover {
+              color: rgb(17, 115, 190);
+              background-color: transparent;
+              text-decoration: underline;
+            }
+            a:active {
+              color: rgb(88, 27, 77);
+              background-color: transparent;
+              text-decoration: underline;
+            }
+        </style>
+       
+    </head>
+    <body style="background-color:rgb(225, 225, 252);">
+        <h2 align="center" style="font-family:monospace;">3rd Yr Msc Data Science TimeTable</h2>
+       
+        <table style="width:fit-content" align="center">
+            <tr>
+                <th>Day/Period</th>
+                <th style="align-content: center;"><b>1st period<br>9.00 - 10.00</th>
+                <th style="align-content: center;"><b>2nd period<br>10.00 - 11.00</th>
+                <th style="align-content: center;"><b><br>11.00 - 11.15</th>
+                <th style="align-content: center;"><b>3rd period<br>11.15 - 12.15</th>
+                <th style="align-content: center;"><b>4th period<br>12.15 - 01.15</th>
+                <th style="align-content: center;"><b><br>01.15 - 02.15</th>
+                <th style="align-content: center;"><b>5th period<br>02.15 - 03.15</th>
+                <th style="align-content: center;"><b>6th period<br>03.15 - 04.15</th>
+            </tr>
+	<!--Copy the file path of a particular subject and paste it in href to visit the syllabus of that subject-->
+            <tr>
+                <td align="center"><b>Monday</b></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/numerical.html">21DS510</a></td>
+                <td align="center" bgcolor="#FFE6E8 "><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/sftwareeng.html">21DSPJ0</a></td>
+                <td rowspan="6" align="center">
+                    <h3>B<br>R<br>E<br>A<br>K</h3>
+                </td>
+                <td colspan="2" align="center" bgcolor="#FFFFE0"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/javalab.html">21DS570</a></td>
+                <td rowspan="6" align="center">
+                    <h3>L<br>U<br>N<br>C<br>H</h3>
+                </td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/compn.html">21DS530</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/web.html">21DS520</a></td>
+            </tr>
+            <tr>
+                <td align="center"><b>Tuesday</b></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/ml.html">21DS540</a></td>
+                <td align="center"><br>Placement
+                    <br>Training</td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/compn.html">21DS530</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/numerical.html">21DS510</a></td>
+                <td colspan="2" align="center" bgcolor="#FFFFE0"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/javalab.html">21DS570</a></td>
+            </tr>
+            <tr>
+                <td align="center"><b>Wednesday</b></td>
+                <td align="center" bgcolor="#FFE6E8"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/sftwareeng.html">21DSPJ0</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/web.html">21DS520</a></td>
+                <td colspan="2" align="center" bgcolor="#FFFFE0"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/webtechlab.html">21DS580</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/ml.html">21DS540</a></td>
+                <td align="center"><br>Tutor Ward
+                <br>Meeting</td>
+            </tr>
+            <tr>
+                <td align="center"><b>Thursday</b></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/compn.html">21DS530</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/web.html">21DS520</a></td>
+                <td align="center">Mini Project</td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/ml.html">21DS540</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/numerical.html">21DS510</a></td>
+                <td align="center"><br>Placement
+                   <br> Training
+                </td>
+            </tr>
+            <tr>
+                <td align="center"><b>Friday</b></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/web.html">21DS520</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/numerical.html">21DS510</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/ml.html">21DS540</a></td>
+                <td align="center"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/compn.html">21DS530</a></td>
+                <td colspan="2" align="center" bgcolor="#FFFFE0"><a href="file:///D:/Vss%20Code%20-%20Web%20Tech%20Lab/Time%20Table/webtechlab.html">21DS580</a></td>
+
+            </tr>
+        </table>
+        <!--p style="font-family: monospace;">Click <a href="syllabus.html">here</a> to visit the Syllabus page</p-->
+    </body>
+</html>

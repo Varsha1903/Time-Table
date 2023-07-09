@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>5th Semester Syllabus</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            background-color: rgb(146, 200, 244);
+            margin-top: 80px;
+            font-family: monospace;
+        }
+
+        th, td {
+            border: 3px solid rgb(255, 255, 255);
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: rgb(188, 229, 255);
+        }
+    </style>
+</head>
+<body style="background-color: rgb(225, 225, 252);">
+    <h2 style="font-family: monospace;" align="center">3rd Yr Msc Data Science Syllabus</h2>
+    <h3 style="font-family: monospace;">Subject Name:</h3>
+    <h3 style="align-content: center;font-family: monospace;"><b>21DS540<br>MACHINE LEARNING</b></h3>
+    <table>
+        <tr>
+            <th>Introduction to Machine Learning</th>
+            <th>Model Selection</th>
+            <th>Probability Distribution</th>
+            <th>Linear Models for Regression</th>
+            <th>Models for Classification L</th>
+            <th>Neural Networks and Kernel Methods</th>
+        </tr>
+        <tr>
+            <td>To Machine Learning, Probability Theory</td>
+            <td>
+                The Curse of Dimensionality, Decision Theory, Information Theory
+                <ul>
+                    <li>Feature Selection</li>
+                    <li>Dimensionality Reduction Techniques</li>
+                    <li>Regularization Methods</li>
+                    <li>Cross-Validation</li>
+                </ul>
+            </td>
+            <td>
+                Binary Variables, Multinomial Variables,
+                 The Gaussian distribution, The Exponential Family,
+                 Nonparametric Methods
+            </td>
+            <td>
+                Linear Basis Function Models,
+                The Bias-Variance Decomposition, Bayesian Linear Regression,
+                Bayesian Model Comparison, The Evidence Approximation,
+                 Limitations of Fixed Basis Functions
+            </td>
+            <td>
+                Discriminant Functions,
+                Probabilistic Generative Models,
+                Probabilistic Discriminative Models,
+                The Laplace Approximation,
+                Bayesian Logistic Regression.
+            </td>
+            <td>Demo Lessons</td>
+        </tr>
+    </table>
+    <p style="font-family: monospace;">Click <a href="table.html">here</a> to go back to the Time Table page</p>
+</body>
+</html>

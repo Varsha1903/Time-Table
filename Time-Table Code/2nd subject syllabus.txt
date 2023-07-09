@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>5th Semester Syllabus</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                background-color: rgb(146, 200, 244);
+                margin-top: 80px;
+                font-family:monospace;
+            }
+            th, td {
+                border: 3px solid rgb(255, 255, 255);
+                padding: 8px;
+                text-align: center;
+               
+            }
+
+            th {
+                background-color: rgb(188, 229, 255);
+            }
+        </style>
+    </head>
+    <body style="background-color :rgb(225, 225, 252);">
+        <h2 style="font-family: monospace;" align="center">3rd Yr Msc Data Science Syllabus</h2>
+                <h3 style="font-family: monospace;">Subject Name :</h3>
+                <h3 style="align-content: center;font-family: monospace;"><b>21DS520<br>WEB TECHNOLOGY</b></h3>
+                <table>
+                    <tr>
+                      <th>Internet Programming</th>
+                      <th>Java Programming</th>
+                      <th>JSP</th>
+                      <th>Database Handling</th>
+                      <th>Networking</th>
+                    </tr>
+                    <tr>
+                      <td>Internet Basics</td>
+                      <td>Java Basics: Java features, Array and Strings, Object Oriented Features</td>
+                      <td>Basics and Comments - Scripting Elements - Expressions - Scriplets - Declarations - Directives - Predefined variables</td>
+                      <td>JDBC connectivity, Types of Statement, Types of Execute Methods</td>
+                      <td>Networking Basics - Java and the Net - InetAddress - TCP/IP Client Sockets - URL - URL Connection - TCP/IP Server Sockets - A Caching Proxy HTTP Server - Datagrams, RMI Technology</td>
+                    </tr>
+                    <tr>
+                      <td>DHTML: Introduction - CSS - DOM: Collections Event Model - Filters and Transitions</td>
+                      <td>Language Interface: JNI, Utilities and Collections, Stacks, Queues, and Vectors </td>
+                        <td>Multithreading and Exceptions: Multithreaded Programming, Exception Handling
+                        <td>Applets: Applet life cycle, Built-in String functions, Streams</td>
+                        <td>serialization: I/O Streams, Object Serialization, Files
+                        AWT Controls: Controls, Layout Managers, Menus, Graphics, Event Handling</td>
+                    </tr>
+                  </table>
+                 
+        <p style="font-family: monospace;">Click <a href="table.html">here</a> to go back to Time Table page</p>
+    </body>
+</html>
